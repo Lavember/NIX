@@ -1,0 +1,10 @@
+=memedb =mdb =memedatabase => search and manipulation in the best database ever
+   \__ random , list , <n>
+=scr => code math math
+    \_ <e>
+=draw2d => clock (ADM ONLY)
+=neurotic => neural network
+    \_ <n>
+=cash => get users cash
+=talk = DONT
+=mine => Mine cash
